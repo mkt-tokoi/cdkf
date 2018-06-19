@@ -1,5 +1,6 @@
 ---
 layout: default
+title: CoderDojo京都伏見
 ---
 
 ### 大人向けの説明 ###
@@ -20,3 +21,10 @@ layout: default
 自由な“ものづくり”を、いっしょに、たのしみましょう。
 
 大人が、てつだいます！
+
+---
+
+### Supporters ###
+
+* 株式会社クランディム : <http://www.crandim.co.jp>
+* 伏見プログラミング教室 : <https://243prog.kyoto>
