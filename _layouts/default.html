@@ -14,33 +14,31 @@
   <body>
     <div class="wrapper">
       <header>
-        {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <div style="height: 92pt;">
+          <img src="{{site.logo | relative_url}}" alt="Logo"
+               style="position: absolute;height: 58pt;top: 8pt;left: 0pt;"/>
+          <div style="position: absolute;font-size: 22pt;left: 64pt;top: 11pt;line-height: 27pt;">
+            <span style="display: block">CoderDojo</span>
+            <span style="display: block">京都伏見</span>
+          </div>
+          <p style="position:absolute ;font-size: 8pt;left: 64pt;top: 68pt;">
+            {{ site.description | default: site.github.project_tagline }}
+          </p>
+        </div>
 
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <div style="margin-left: 34pt;">
+          <ul class="fixedpages" >
+            <li><a href="/">トップ</a></li>
+            <li><a href="/about/">CoderDojo京都伏見について</a></li>
+            <li><a href="/faq/">よくある質問と回答</a></li>
+            <li><a href="/donate/">支援について</a></li>
+            <li>カテゴリ別</li>
+              {% include categories.html  %}
+            <li>タグ別</li>
+              {% include tag_cloud.html  %}
+          </ul>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-
-        <ul class="fixedpages">
-          <li><a href="/about/">CoderDojo京都伏見について</a></li>
-          <li><a href="/faq/">よくある質問と回答</a></li>
-          <li><a href="/donate/">支援について</a></li>
-        </ul>
-
-        <h3>カテゴリ別記事</h3>
-        {% include categories.html  %}
-
-        <h3>タグ別記事</h3>
-        {% include tag_cloud.html  %}
+        </div>
 
 
       </header>

@@ -1,8 +1,8 @@
 title: CoderDojo京都伏見
 description: 子どものためのプログラミング道場
-logo: /assets/img/CoderDojoLogo.png
+logo: /assets/img/CoderDojo_Roundel _light-bg.svg
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 show_downloads: false
 
 google_analytics:
