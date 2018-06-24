@@ -13,7 +13,7 @@ Facebookで見つけたニンジャ向けニュースです。
 
 家族や友達の なやみ を解決(かいけつ)するScratchプログラムを、ぼしゅうしています。
 
-https://www.irohamming.jp/lp/1806_contest/
+[コンテストのWEBサイト](https://www.irohamming.jp/lp/1806_contest/)
 
 グランプリのしょうひんは、AIスピーカーと、図書けん3万円分です！
 おうぼうけつけは、7月15日～8月31日まで。
@@ -22,7 +22,8 @@ https://www.irohamming.jp/lp/1806_contest/
 
 プログラミングでできることは、ゲームをつくることだけではありません。
 スクラッチでゲームを作らない、めずらしい（そしてちょっとむずかしい）本が出ます。
-https://www.amazon.co.jp/dp/4822292339
+
+[Scratchで楽しく学ぶ アート＆サイエンス（Amazon）](https://www.amazon.co.jp/dp/4822292339)
 
 CoderDojo調布(ちょうふ)チャンピオンの石原さんが書きました。
 「スクラッチはちゅうきゅうレベルだよ！」という人におすすめです。
