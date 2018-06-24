@@ -24,7 +24,7 @@ permalink: /faq/
 
     We commit to inspiring and supporting young people to learn how to create technology
 
-教わる事は、学ぶ方法の1つですが、「自分が作りたいものを考え、自ら作り上げていく経験」に勝るものではないと私たちは考えています。
+一斉授業で教わる事は、学ぶ方法の1つですが、「自分が作りたいものを考え、自ら作り上げていく経験」に勝るものではないと、当Dojoでは考えています。
 
 ### Q3.どうやって無償で開催しているのですか？
 
