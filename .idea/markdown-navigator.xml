@@ -47,7 +47,7 @@
         <option name="GITHUB_LISTS" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
         <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
-        <option name="JEKYLL_FRONT_MATTER" value="false" />
+        <option name="JEKYLL_FRONT_MATTER" value="true" />
         <option name="NO_TEXT_ATTRIBUTES" value="false" />
         <option name="PARSE_HTML_ANCHOR_ID" value="false" />
         <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />

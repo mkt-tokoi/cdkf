@@ -27,4 +27,3 @@ title: CoderDojo京都伏見
 ### Supporters ###
 
 * 株式会社クランディム : <http://www.crandim.co.jp>
-* 伏見プログラミング教室 : <https://243prog.kyoto>
