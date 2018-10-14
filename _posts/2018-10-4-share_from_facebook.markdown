@@ -13,7 +13,7 @@ Facebookで見つけたニンジャ向けニュースです。
 
 今みなさんが使っているScratchは、バージョン2だと思いますが、新しいバージョン3のScratchが、もうすぐ完成しそうです。
 
-(https://beta.scratch.mit.edu/)
+[https://beta.scratch.mit.edu/](https://beta.scratch.mit.edu/)
 
 今までのScrathでは、Flash(フラッシュ)というソフトをインストールしておく必要がありましたが、この新しいスクラッチは、Blockly(ブロックリー)というライブラリを使っていて、Flashなどのソフトウェアをインストールしなくても使うことができます。
 
@@ -25,7 +25,7 @@ Facebookで見つけたニンジャ向けニュースです。
 
 高校3年生のLemyさんが、TechnovationChallenge2018に参加したときのことを記事にしてくれました。
 
-(https://globaledu.jp/TechnovationChallenge2018-29188.html)
+[https://globaledu.jp/TechnovationChallenge2018-29188.html](https://globaledu.jp/TechnovationChallenge2018-29188.html)
 
 TechnovationChallenge（テクノベーション・チャレンジ）は、世界中の10～18才の女子が参加できるコンテストです。
 
